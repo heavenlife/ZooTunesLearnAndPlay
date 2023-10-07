@@ -1,0 +1,42 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "type": "Pet",
+      "name": "Cat",
+      "images_slider": [
+        {
+          "image_url": "https://example.com/cat1.jpg",
+          "sound_url": "https://example.com/cat1_sound.mp3"
+        },
+        {
+          "image_url": "https://example.com/cat2.jpg",
+          "sound_url": "https://example.com/cat2_sound.mp3"
+        },
+        {
+          "image_url": "https://example.com/cat3.jpg",
+          "sound_url": "https://example.com/cat3_sound.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Wild Animal",
+      "name": "Lion",
+      "images_slider": [
+        {
+          "image_url": "https://example.com/lion1.jpg",
+          "sound_url": "https://example.com/lion1_sound.mp3"
+        },
+        {
+          "image_url": "https://example.com/lion2.jpg",
+          "sound_url": "https://example.com/lion2_sound.mp3"
+        },
+        {
+          "image_url": "https://example.com/lion3.jpg",
+          "sound_url": "https://example.com/lion3_sound.mp3"
+        }
+      ]
+    }
+  ]
+}
