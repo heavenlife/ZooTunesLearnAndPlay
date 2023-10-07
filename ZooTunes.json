@@ -4,19 +4,15 @@
       "id": 1,
       "type": "Pet",
       "name": "Pet Animals",
-      "aniamal_image": "https://example.com/cat1.jpg",
+      "aniamal_image": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/pets_animal_poster.png",
       "images_slider": [
         {
-          "image_url": "https://example.com/cat1.jpg",
-          "sound_url": "https://example.com/cat1_sound.mp3"
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/pet1.jpg",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
         },
         {
-          "image_url": "https://example.com/cat2.jpg",
-          "sound_url": "https://example.com/cat2_sound.mp3"
-        },
-        {
-          "image_url": "https://example.com/cat3.jpg",
-          "sound_url": "https://example.com/cat3_sound.mp3"
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/pet2.jpg",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
         }
       ]
     },
@@ -24,19 +20,23 @@
       "id": 2,
       "type": "Wild",
       "name": "Wild Animal",
-      "aniamal_image": "https://example.com/cat1.jpg",
+      "aniamal_image": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild_animal_poster.png",
       "images_slider": [
         {
-          "image_url": "https://example.com/lion1.jpg",
-          "sound_url": "https://example.com/lion1_sound.mp3"
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild1.jpg",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
         },
         {
-          "image_url": "https://example.com/lion2.jpg",
-          "sound_url": "https://example.com/lion2_sound.mp3"
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild2.jpg",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
         },
         {
-          "image_url": "https://example.com/lion3.jpg",
-          "sound_url": "https://example.com/lion3_sound.mp3"
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild3.jpg",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild4.jpg",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
         }
       ]
     }
