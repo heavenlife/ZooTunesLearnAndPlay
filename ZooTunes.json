@@ -3,7 +3,8 @@
     {
       "id": 1,
       "type": "Pet",
-      "name": "Cat",
+      "name": "Pet Animals",
+      "aniamal_image": "https://example.com/cat1.jpg",
       "images_slider": [
         {
           "image_url": "https://example.com/cat1.jpg",
@@ -21,8 +22,9 @@
     },
     {
       "id": 2,
-      "type": "Wild Animal",
-      "name": "Lion",
+      "type": "Wild",
+      "name": "Wild Animal",
+      "aniamal_image": "https://example.com/cat1.jpg",
       "images_slider": [
         {
           "image_url": "https://example.com/lion1.jpg",
