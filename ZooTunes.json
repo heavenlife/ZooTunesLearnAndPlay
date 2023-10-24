@@ -12,7 +12,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/pet_hindi_audio.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P1_cow_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P1_cow_hin.mp3"
-          },
+          }
         },
         {
           "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/2P_Buffalo.png",
@@ -20,7 +20,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_hin.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_guj.mp3"
-          },
+          }
         },
          {
           "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/3P_Camel.png",
@@ -28,7 +28,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_hin.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_guj.mp3"
-          },
+          }
         },
         {
           "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/4P_Dog.png",
@@ -36,7 +36,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_hin.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_guj.mp3"
-          },
+          }
         },
       ]
     },
@@ -52,7 +52,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_hin.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_guj.mp3"
-          },
+          }
         },
         {
           "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/2_Tiger.png",
@@ -60,7 +60,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_hin.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_guj.mp3"
-          },
+          }
         },
         {
           "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/3_Black_Jaguar.png",
@@ -68,7 +68,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_hin.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_guj.mp3"
-          },
+          }
         },
         {
           "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/4_Leopard.png",
@@ -76,7 +76,7 @@
             "hindi": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_hin.mp3",
             "english": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_eng.mp3",
             "gujarati": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/Pets/P2_buffelo_guj.mp3"
-          },
+          }
         }
       ]
     },
