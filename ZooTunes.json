@@ -247,19 +247,119 @@
       "aniamal_image": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/vehicles_poster.png",
       "images_slider": [
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild1.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/1V_Bicycle.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild2.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/2V_Motorcycle.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild3.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/3V_Scooter.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild4.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/4V_Scooty.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/5V_Car.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/6V_AutoRickshaw.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/7V_Bus.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/8V_Truck.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/9V_Jeep.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/10V_QuadBike.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/11V_FormulaCar.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/12V_Tractor.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/13V_PoliceCar.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/14V_Backhoe%20Loader.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/15V_RoadRoller.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/16V_Crane.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/17V_FireEngine.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/18V_Ambulance.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+         {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/19V_Helicopter.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/20V_Aeroplane.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/21V_FighterJet.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/22V_Train.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/23V_MetroTrain.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/24V_BulletTrain.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/25V_Yacht.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/26V_Ship.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/27V_Airship.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/28V_HotAirBalloon.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Vehicles/29V_Parachute.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
         }
       ]
