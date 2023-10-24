@@ -139,12 +139,104 @@
       "aniamal_image": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/birds_poster.png",
       "images_slider": [
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/pet1.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/1B_Sparrows.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/pet2.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/2B_Parrot.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/3B_Peacock.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/4B_Pigeon.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+         {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/5B_Cuckoo.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/6B_Raven.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/7B_Dove.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/8B_Eagle.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+         {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/9B_Rooster.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/10B_Hen.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/11B_Lapwing.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/12B_Owl.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+         {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/13B_Crane.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/14B_Duck.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/15B_WildDuck.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/16B_Bulbul.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+         {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/17B_Goose.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/18B_Canary.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/19B_Ostrich.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/20B_Kingfisher.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+         {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/21B_Bat.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/22B_Partridge.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/23B_Turkey.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/24B_Valture.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+         {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Birds/25B_Woodpecker.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
         }
       ]
     },
