@@ -75,19 +75,19 @@
       "aniamal_image": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild_animal_poster.png",
       "images_slider": [
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild1.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/1_Lion.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild2.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/2_Tiger.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild3.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/3_Black_Jaguar.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/tiger_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/wild4.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Wild/4_Leopard.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/elephent_audio.mp3"
         }
       ]
@@ -99,11 +99,19 @@
       "aniamal_image": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/WaterCreatures/water_creature_poster.jpg",
       "images_slider": [
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/pet1.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/WaterCreatures/1W_Fish.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
         },
         {
-          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/Pets/pet2.jpg",
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/WaterCreatures/2W_Crab.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
+        },
+          {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/WaterCreatures/3W_Dolphin.png",
+          "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/cat_audio.mp3"
+        },
+        {
+          "image_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/images/WaterCreatures/4W_Hippopotamus.png",
           "sound_url": "https://heavenlife.github.io/ZooTunesLearnAndPlay/Audio/dog_audio.mp3"
         }
       ]
